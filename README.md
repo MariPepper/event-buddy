@@ -23,15 +23,10 @@ npm install react-native-dotenv
 
 # Create a .env file in the root of your project with the following content:
 FIREBASE_API_KEY=your-api-key
-
 FIREBASE_AUTH_DOMAIN=your-auth-domain
-
 FIREBASE_PROJECT_ID=your-project-id
-
 FIREBASE_STORAGE_BUCKET=your-storage-bucket
-
 FIREBASE_MESSAGING_SENDER_ID=your-sender-id
-
 FIREBASE_APP_ID=your-app-id
 
 ---
